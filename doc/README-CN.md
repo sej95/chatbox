@@ -232,4 +232,4 @@ npm run package:all
 
 ## 联系方式
 
-[Twitter](https://twitter.com/benn_huang) | [电子邮件](mailto:tohuangbin@gmail.com) | [博客](https://bennhuang.com)
+[Twitter](https://twitter.com/my9502) | [电子邮件](mailto:jn9502@gmail.com) | [博客](https://my6.top)
