@@ -251,7 +251,7 @@ npm run package:all
 
 ## Contact
 
-[Twitter](https://twitter.com/benn_huang) | [Email](mailto:tohuangbin@gmail.com) | [Blog](https://bennhuang.com)
+[Twitter](https://twitter.com/my9502| [Email](mailto:jn9502@gmail.com) | [Blog](https://my6.top)
 
 ## License
 
