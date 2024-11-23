@@ -239,9 +239,9 @@ npm run package:all
 
 ## Buy Me a Coffee
 
-| Paypal                                            | Wechat Pay                                      | Paypal                                            | Ali Pay                                      |
-| ------------------------------------------------- | ----------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
-| [**`Paypal`**](https://www.paypal.me/) | <img src="./doc/statics/wechat_pay.JPG" height="240" /> | [**`Paypal`**](https://www.paypal.me/) | <img src="./doc/statics/ali_pay.PNG" height="240" /> |
+| Wechat Pay                                      | Paypal                                            | Ali Pay                                      |
+| ----------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| <img src="./doc/statics/wechat_pay.JPG" height="240" /> | [**`Paypal`**](https://www.paypal.me/) | <img src="./doc/statics/ali_pay.PNG" height="240" /> |
 
 ## Star History
 
