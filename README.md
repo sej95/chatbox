@@ -237,7 +237,8 @@ npm run package
 npm run package:all
 ```
 
-## Buy Me a Coffee
+## Deploy with Vercel
+[!["Deploy with Vercel"](./doc/Deploy with Vercel.png)](https://vercel.com/new/clone?repository-url=https://github.com/sej95/chatbox&env=OPENAI_API_KEY,ACCESS_CODE&envDescription=Find your OpenAI API Key by click the right Learn More button. | Access Code can protect your website&envLink=https://platform.openai.com/account/api-keys&project-name=chatbox&repository-name=chatbox)
 
 | Wechat Pay                                      | Paypal                                            | Ali Pay                                      |
 | ----------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
