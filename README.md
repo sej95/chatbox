@@ -238,7 +238,7 @@ npm run package:all
 ```
 
 ## Deploy with Vercel
-[!["Deploy with Vercel"](https://vercel.com/button)](https%3A%2F%2Fvercel.com%2)
+[!["Deploy with Vercel"](https://vercel.com/button)](https://)
 
 | Wechat Pay                                      | Paypal                                            | Ali Pay                                      |
 | ----------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
