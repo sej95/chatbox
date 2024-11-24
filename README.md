@@ -238,7 +238,7 @@ npm run package:all
 ```
 
 ## Deploy with Vercel
-[!["Deploy with Vercel"](https://vercel.com/button)](https%3A%2F%2Fvercel.com%2Fimport%2Fproject?template=https%3A%2F%2Fgithub.com%2Fsej95%2Fchatbox)
+[!["Deploy with Vercel"](https://vercel.com/button)](https%3A%2F%2Fvercel.com%2)
 
 | Wechat Pay                                      | Paypal                                            | Ali Pay                                      |
 | ----------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
